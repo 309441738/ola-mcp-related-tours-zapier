@@ -1,0 +1,10 @@
+{
+  "title": "Related Tour Packages",
+  "description": "Explore related land tour packages that complement your cruise experience, enriching your travel journey.",
+  "version": "1.0.0",
+  "platformVersion": "15.0.0",
+  "published_with": "craftwave",
+  "authentication": {
+    "type": "oauth2"
+  }
+}
