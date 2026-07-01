@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.309441738/ola-mcp-related-tours",
+  "description": "Explore related land tour packages that complement your cruise experience, enriching your travel journey.",
+  "version": "0.1.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://cruise-mcp.olavacations.com/api/gw/mcp/cc53d24e-766d-4948-9bf7-ae4ba9ca97d6"
+    }
+  ]
+}
